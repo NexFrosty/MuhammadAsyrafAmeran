@@ -24,11 +24,11 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%05122A?&style=flat&logo=numpy&logoColor=23013243)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%05122A?&style=flat&logo=pandas&logoColor=23150458)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%05122A?style=flat&logo=TensorFlow&logoColor=23FF6F00)&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%05122A?style=flat&logo=Matplotlib&logoColor=23ffffff)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%05122A?style=flat&logo=scikit-learn&logoColor=23F7931E)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy%20-05122A?&style=flat&logo=numpy&logoColor=23013243)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-05122A?&style=flat&logo=pandas&logoColor=23150458)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=TensorFlow&logoColor=23FF6F00)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-05122A?style=flat&logo=Matplotlib&logoColor=23ffffff)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-05122A?style=flat&logo=scikit-learn&logoColor=23F7931E)&nbsp;
 
 
 ### 📫 &nbsp; How to reach me:
