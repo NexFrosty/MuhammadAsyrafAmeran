@@ -1,4 +1,4 @@
-![asyrafameran](https://github.com/NexFrosty/MuhammadAsyrafAmeran/assets/74113883/a901bc18-3a24-4f1f-b1ec-4484af280509)
+![asyrafameran](https://github.com/NexFrosty/MuhammadAsyrafAmeran/assets/74113883/321e5959-fbd5-4c2f-af90-143eb91a2d94)
 
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
