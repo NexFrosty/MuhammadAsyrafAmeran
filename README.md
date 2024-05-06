@@ -7,10 +7,10 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm currently looking for an internship. \
-💻 &nbsp;I'm a third year university student in Intelligent System Engineering, Big Data Track.\
-🏀 &nbsp;I love playing basketball, jogging and playing games.\
-✉️ &nbsp;You can email me at asyrafameran@gmail.com. I'll try to respond as soon as possible!
+💡 &nbsp;Currently looking for an internship. \
+💻 &nbsp;A third year university student in Intelligent System Engineering, Big Data Track.\
+🏀 &nbsp;Love playing basketball, jogging and playing games.\
+✉️ &nbsp;Email me at asyrafameran@gmail.com. I'll try to respond as soon as possible!
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -35,8 +35,8 @@
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:dhadwal1507@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/muhammad-asyraf-ameran-1501919"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:asyrafameran@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 <!--
 **AbhishekSinghDhadwal/AbhishekSinghDhadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
