@@ -7,10 +7,10 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm currently looking for an internship. \
+💡 &nbsp;I'm currently looking for an internship. \
 💻 &nbsp;I'm a third year university student in Intelligent System Engineering, Big Data Track.\
 🏀 &nbsp;I love playing basketball, jogging and playing games.\
-✉️ &nbsp;You can email me at asyrafameran@gmail.com. I'll try to respond as soon as possible!\ 
+✉️ &nbsp;You can email me at asyrafameran@gmail.com. I'll try to respond as soon as possible!
 
 
 ### 🛠 &nbsp;Tech Stack
