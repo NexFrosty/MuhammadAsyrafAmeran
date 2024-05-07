@@ -7,7 +7,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Currently looking for an internship. \
+💡 &nbsp;Currently looking for an internship in a Data Analyst or Data Engineer role. \
 💻 &nbsp;A third year university student in Intelligent System Engineering, Big Data Track.\
 🏀 &nbsp;Love playing basketball, jogging and playing games.
 
