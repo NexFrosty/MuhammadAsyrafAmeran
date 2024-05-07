@@ -3,7 +3,7 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![version :5.5.2024](https://img.shields.io/badge/version-05.05.2024-informational) &nbsp;
-[![GitHub NexFrosty](https://img.shields.io/github/followers/NexFrosty?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
+![GitHub NexFrosty](https://img.shields.io/github/followers/NexFrosty?label=follow&style=social)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -34,7 +34,7 @@
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.linkedin.com/in/muhammad-asyraf-ameran-1501919"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/asyrafameran1501919"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:asyrafameran@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
